@@ -1,0 +1,881 @@
+{
+  "users": [
+    {
+      "id": "user_sharma_01",
+      "email": "sharma.family@carecircle.io",
+      "name": "Rajesh Sharma",
+      "familyName": "The Sharma Family",
+      "emergencyFamilyContact": {
+        "name": "Dr. Suresh Kumar (Family Friend)",
+        "phone": "+91 98100 55443",
+        "relationship": "Family Friend & Emergency Contact"
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-01-01T08:00:00.000Z",
+      "passwordHash": "$2a$10$xhwkmmtLvRNPZHlPGX2pQesTVtoUSjvk8ubYpoU0HdN47i1QZLaZi"
+    },
+    {
+      "id": "user_1794834485100_ufgp",
+      "email": "arnavbebo13012007@gmail.com",
+      "name": "The Sharma Family",
+      "familyName": "The Sharma Family",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:08:05.100Z",
+      "passwordHash": "$2a$10$hJZWojZQPTGjqH/jVG8GxOkwjI2cTlj0dQebJARldV.rEvcLx3W.m"
+    },
+    {
+      "id": "user_1794835289442_70cp",
+      "email": "gupta.9686@carecircle.test",
+      "name": "Gupta Family",
+      "familyName": "Gupta Family",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:21:29.442Z",
+      "passwordHash": "$2a$10$rVTukU1m3jSqSbd2rDm3I.yPaTlKzeQfa4NaPV0fb28jgn31lavJC"
+    },
+    {
+      "id": "user_1794835305628_2llo",
+      "email": "gupta.8511@carecircle.test",
+      "name": "Gupta Family",
+      "familyName": "Gupta Family",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:21:45.628Z",
+      "passwordHash": "$2a$10$uO7YqDY1MilyTLpXfYOgx.EC5wHtXG2x5OzmBqrtxqEttW6KFej9i"
+    },
+    {
+      "id": "user_1794835326490_ehws",
+      "email": "gupta.8460@carecircle.test",
+      "name": "The Gupta Household",
+      "familyName": "The Gupta Household",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:22:06.490Z",
+      "passwordHash": "$2a$10$h6YkkbUVxl8bCNV8CERtm.nW9UZTyUSL0Ba5JTmffMVAxPedvwOtC"
+    },
+    {
+      "id": "user_1794835345296_ct9s",
+      "email": "gupta.7929@carecircle.test",
+      "name": "The Gupta Household",
+      "familyName": "The Gupta Household",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:22:25.296Z",
+      "passwordHash": "$2a$10$JqBqnHnwm6AAqJakRCFZxuF2UMQ1lO22NkBNsKDEwWLp9M.SC.hh."
+    },
+    {
+      "id": "user_1794835410664_l2uq",
+      "email": "gupta@gmail.com",
+      "name": "Gupta Family",
+      "familyName": "Gupta Family",
+      "emergencyFamilyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "preferences": {
+        "dateFormat": "DD/MM/YYYY",
+        "notificationsEnabled": true,
+        "emailAlerts": true,
+        "reminderWindowDays": 3
+      },
+      "createdAt": "2026-11-16T13:23:30.664Z",
+      "passwordHash": "$2a$10$PYBdswxqEWwmOjpQe3i2geN2LrtWNR2YkqUI0SM5FHFkiSOT8vSRy"
+    }
+  ],
+  "familyMembers": [
+    {
+      "id": "member_rajesh",
+      "familyId": "user_sharma_01",
+      "fullName": "Rajesh Sharma",
+      "dateOfBirth": "1974-05-14",
+      "age": 52,
+      "gender": "Male",
+      "relationship": "Self (Father)",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "bloodGroup": "O+",
+      "phone": "+91 98200 11223",
+      "email": "rajesh.sharma@carecircle.io",
+      "emergencyContact": {
+        "name": "Sunita Sharma",
+        "phone": "+91 98200 44556",
+        "relationship": "Spouse"
+      },
+      "allergies": [
+        "Penicillin (Moderate rash)",
+        "Dust Mites"
+      ],
+      "existingConditions": [
+        "Type 2 Diabetes",
+        "Hypertension"
+      ],
+      "notes": "Taking Metformin 500mg and Telmisartan 40mg. Needs routine blood sugar monitoring.",
+      "createdAt": "2026-01-05T10:00:00.000Z"
+    },
+    {
+      "id": "member_sunita",
+      "familyId": "user_sharma_01",
+      "fullName": "Sunita Sharma",
+      "dateOfBirth": "1978-09-22",
+      "age": 48,
+      "gender": "Female",
+      "relationship": "Spouse (Mother)",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "bloodGroup": "B+",
+      "phone": "+91 98200 44556",
+      "email": "sunita.sharma@carecircle.io",
+      "emergencyContact": {
+        "name": "Rajesh Sharma",
+        "phone": "+91 98200 11223",
+        "relationship": "Spouse"
+      },
+      "allergies": [
+        "Sulfonamides",
+        "Shellfish"
+      ],
+      "existingConditions": [
+        "Hypothyroidism"
+      ],
+      "notes": "Taking Levothyroxine 50mcg daily morning empty stomach. Annual thyroid check recommended.",
+      "createdAt": "2026-01-05T10:05:00.000Z"
+    },
+    {
+      "id": "member_aarav",
+      "familyId": "user_sharma_01",
+      "fullName": "Aarav Sharma",
+      "dateOfBirth": "2010-08-11",
+      "age": 16,
+      "gender": "Male",
+      "relationship": "Son",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+      "bloodGroup": "O+",
+      "phone": "+91 98200 77889",
+      "email": "aarav.sharma@carecircle.io",
+      "emergencyContact": {
+        "name": "Rajesh Sharma",
+        "phone": "+91 98200 11223",
+        "relationship": "Father"
+      },
+      "allergies": [
+        "Peanuts (Mild urticaria)",
+        "Seasonal Pollen"
+      ],
+      "existingConditions": [
+        "Mild Bronchial Asthma"
+      ],
+      "notes": "Uses Salbutamol inhaler as needed for sports or seasonal changes. Yearly pediatric growth evaluation.",
+      "createdAt": "2026-01-05T10:10:00.000Z"
+    },
+    {
+      "id": "member_savitri",
+      "familyId": "user_sharma_01",
+      "fullName": "Savitri Sharma",
+      "dateOfBirth": "1948-03-04",
+      "age": 78,
+      "gender": "Female",
+      "relationship": "Grandmother",
+      "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?w=150&auto=format&fit=crop&q=80",
+      "bloodGroup": "A+",
+      "phone": "+91 98200 33221",
+      "email": "savitri.care@carecircle.io",
+      "emergencyContact": {
+        "name": "Rajesh Sharma",
+        "phone": "+91 98200 11223",
+        "relationship": "Son"
+      },
+      "allergies": [
+        "NSAIDs / Ibuprofen (causes gastric distress)"
+      ],
+      "existingConditions": [
+        "Bilateral Knee Osteoarthritis",
+        "Mild Cataract in Right Eye"
+      ],
+      "notes": "Undergoing knee physiotherapy twice weekly. Avoid steps without railing assistance.",
+      "createdAt": "2026-01-05T10:15:00.000Z"
+    },
+    {
+      "id": "member_1794834485100_self",
+      "familyId": "user_1794834485100_ufgp",
+      "fullName": "Arnav Sharma",
+      "dateOfBirth": "1995-01-01",
+      "age": 31,
+      "gender": "Prefer not to say",
+      "relationship": "Self",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Arnav%20Sharma",
+      "phone": "",
+      "email": "arnavbebo13012007@gmail.com",
+      "emergencyContact": {
+        "name": "",
+        "phone": "",
+        "relationship": ""
+      },
+      "allergies": [],
+      "existingConditions": [],
+      "notes": "Primary family vault manager",
+      "createdAt": "2026-11-16T13:08:05.100Z"
+    }
+  ],
+  "medicalHistory": [
+    {
+      "id": "hist_01",
+      "familyMemberId": "member_rajesh",
+      "conditionOrDiagnosis": "Type 2 Diabetes Mellitus",
+      "date": "2018-04-12",
+      "description": "Diagnosed with elevated fasting blood glucose (162 mg/dL) and HbA1c of 7.8%. Started on Metformin 500mg twice daily with dietary regimen.",
+      "relatedDoctorName": "Dr. Arvind Raman",
+      "notes": "Requires 3-monthly HbA1c review and daily home glucometer log.",
+      "createdAt": "2026-01-06T09:00:00Z"
+    },
+    {
+      "id": "hist_02",
+      "familyMemberId": "member_rajesh",
+      "conditionOrDiagnosis": "Primary Essential Hypertension",
+      "date": "2021-09-18",
+      "description": "Stage 1 Hypertension noted during preventive health screening (145/92 mmHg). Prescribed Telmisartan 40mg once daily.",
+      "relatedDoctorName": "Dr. Priya Mehta",
+      "notes": "Blood pressure currently stable around 124/80 mmHg.",
+      "createdAt": "2026-01-06T09:15:00Z"
+    },
+    {
+      "id": "hist_03",
+      "familyMemberId": "member_sunita",
+      "conditionOrDiagnosis": "Hypothyroidism (Hashimoto)",
+      "date": "2015-11-04",
+      "description": "Presented with fatigue and cold intolerance. Serum TSH was 9.4 uIU/mL. Thyroid antibodies positive. Titrated to 50mcg Levothyroxine.",
+      "relatedDoctorName": "Dr. Arvind Raman",
+      "notes": "TSH well controlled at 2.1 uIU/mL on current dosage.",
+      "createdAt": "2026-01-06T09:30:00Z"
+    },
+    {
+      "id": "hist_04",
+      "familyMemberId": "member_aarav",
+      "conditionOrDiagnosis": "Mild Intermittent Asthma",
+      "date": "2019-02-14",
+      "description": "Episodes of wheezing triggered by winter viral infections and cold air exertion. Normal spirometry baseline.",
+      "relatedDoctorName": "Dr. Ananya Sen",
+      "notes": "Prescribed Levolin / Salbutamol inhaler with spacer as needed prior to active sports.",
+      "createdAt": "2026-01-06T09:45:00Z"
+    },
+    {
+      "id": "hist_05",
+      "familyMemberId": "member_savitri",
+      "conditionOrDiagnosis": "Bilateral Knee Osteoarthritis (Grade 3)",
+      "date": "2020-07-20",
+      "description": "Persistent mechanical knee joint pain and joint space narrowing on weight-bearing X-ray. Conservative management with quadriceps strengthening.",
+      "relatedDoctorName": "Dr. Vikramaditya Joshi",
+      "notes": "Takes Glucosamine + Paracetamol SOS. Intra-articular hyaluronic acid viscosupplementation completed in 2023.",
+      "createdAt": "2026-01-06T10:00:00Z"
+    },
+    {
+      "id": "hist_06",
+      "familyMemberId": "member_savitri",
+      "conditionOrDiagnosis": "Senile Cataract - Left Eye Phacoemulsification",
+      "date": "2022-03-10",
+      "description": "Uneventful left eye phacoemulsification with monofocal IOL implantation. Best corrected visual acuity 20/20 in left eye.",
+      "relatedDoctorName": "Dr. Renu Malhotra (Eye Specialist)",
+      "notes": "Right eye has early immature cataract, monitoring yearly.",
+      "createdAt": "2026-01-06T10:15:00Z"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc_arvind",
+      "familyId": "user_sharma_01",
+      "fullName": "Dr. Arvind Raman, MD, DM",
+      "avatar": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=150&auto=format&fit=crop&q=80",
+      "specialization": "Endocrinologist & Diabetologist",
+      "hospitalOrClinic": "Max Care Superspeciality Clinic",
+      "phone": "+91 98112 34567",
+      "clinicAddress": "Suite 402, 4th Floor, Max Medical Tower, Press Enclave, Saket, New Delhi 110017",
+      "consultationTimings": "Mon - Fri: 10:00 AM - 4:00 PM, Sat: 10:00 AM - 1:00 PM",
+      "notes": "Family diabetologist for Rajesh and endocrinologist for Sunita. Very responsive on WhatsApp for lab reviews.",
+      "createdAt": "2026-01-05T11:00:00Z"
+    },
+    {
+      "id": "doc_priya",
+      "familyId": "user_sharma_01",
+      "fullName": "Dr. Priya Mehta, MD, DNB (Cardiology)",
+      "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=150&auto=format&fit=crop&q=80",
+      "specialization": "Cardiologist",
+      "hospitalOrClinic": "Apollo Heart & Vascular Institute",
+      "phone": "+91 98201 23456",
+      "clinicAddress": "OPD Block C, Apollo Hospitals, Sarita Vihar, Mathura Road, New Delhi 110076",
+      "consultationTimings": "Mon, Wed, Fri: 9:00 AM - 1:00 PM, 5:00 PM - 7:30 PM",
+      "notes": "Senior interventional cardiologist. Consulted for Rajesh’s hypertension and annual cardiac checkup.",
+      "createdAt": "2026-01-05T11:05:00Z"
+    },
+    {
+      "id": "doc_ananya",
+      "familyId": "user_sharma_01",
+      "fullName": "Dr. Ananya Sen, MD (Pediatrics)",
+      "avatar": "https://images.unsplash.com/photo-1594824813571-638f02614d3f?w=150&auto=format&fit=crop&q=80",
+      "specialization": "Pediatrician & Adolescent Medicine",
+      "hospitalOrClinic": "Fortis Bloom Child & Adolescent Health",
+      "phone": "+91 98450 98765",
+      "clinicAddress": "Clinic 12, Fortis Hospital, Sector B, Pocket 1, Aruna Asaf Ali Marg, Vasant Kunj 110070",
+      "consultationTimings": "Mon - Sat: 11:00 AM - 2:00 PM, 4:30 PM - 7:00 PM",
+      "notes": "Aarav’s pediatrician since childhood. Excellent with adolescent nutrition and allergy management.",
+      "createdAt": "2026-01-05T11:10:00Z"
+    },
+    {
+      "id": "doc_vikram",
+      "familyId": "user_sharma_01",
+      "fullName": "Dr. Vikramaditya Joshi, MS (Ortho), MCh",
+      "avatar": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=150&auto=format&fit=crop&q=80",
+      "specialization": "Orthopedic & Joint Replacement Surgeon",
+      "hospitalOrClinic": "City Bone & Joint Speciality Hospital",
+      "phone": "+91 99100 87654",
+      "clinicAddress": "Ground Floor OPD, 78 Poorvi Marg, Vasant Vihar, New Delhi 110057",
+      "consultationTimings": "Tue, Thu, Sat: 2:00 PM - 8:00 PM",
+      "notes": "Treats Savitri’s knee osteoarthritis. Conservative and patient-centric approach.",
+      "createdAt": "2026-01-05T11:15:00Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt_01",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_rajesh",
+      "doctorId": "doc_arvind",
+      "appointmentDate": "2026-11-17",
+      "appointmentTime": "10:30 AM",
+      "hospitalOrClinic": "Max Care Superspeciality Clinic",
+      "reason": "Quarterly Diabetes & Lipid Profile Follow-up",
+      "status": "Scheduled",
+      "notes": "Carry fasting blood sugar log and recent HbA1c test report.",
+      "createdAt": "2026-11-01T10:00:00Z"
+    },
+    {
+      "id": "apt_02",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_savitri",
+      "doctorId": "doc_vikram",
+      "appointmentDate": "2026-11-19",
+      "appointmentTime": "03:15 PM",
+      "hospitalOrClinic": "City Bone & Joint Speciality Hospital",
+      "reason": "Bilateral Knee Pain Assessment & Physical Therapy Review",
+      "status": "Scheduled",
+      "notes": "Need to review fresh weight-bearing knee X-ray taken at imaging center.",
+      "createdAt": "2026-11-03T11:00:00Z"
+    },
+    {
+      "id": "apt_03",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_aarav",
+      "doctorId": "doc_ananya",
+      "appointmentDate": "2026-11-23",
+      "appointmentTime": "11:45 AM",
+      "hospitalOrClinic": "Fortis Bloom Child & Adolescent Health",
+      "reason": "Adolescent Annual Health Check & Allergy Inhaler Review",
+      "status": "Scheduled",
+      "notes": "Check peak expiratory flow meter readings and growth percentiles.",
+      "createdAt": "2026-11-05T14:30:00Z"
+    },
+    {
+      "id": "apt_04",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_rajesh",
+      "doctorId": "doc_priya",
+      "appointmentDate": "2026-10-28",
+      "appointmentTime": "05:30 PM",
+      "hospitalOrClinic": "Apollo Heart & Vascular Institute",
+      "reason": "Bi-annual Hypertension & Resting ECG Check",
+      "status": "Completed",
+      "consultationNotes": "Resting BP 122/78 mmHg. Resting 12-lead ECG is normal sinus rhythm. Continue Telmisartan 40mg. 45 min brisk walking 5 days/week encouraged.",
+      "attachedRecordIds": [
+        "rec_ecg_rajesh",
+        "rec_rx_priya"
+      ],
+      "notes": "Follow up in 6 months.",
+      "createdAt": "2026-10-15T09:00:00Z"
+    },
+    {
+      "id": "apt_05",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_sunita",
+      "doctorId": "doc_arvind",
+      "appointmentDate": "2026-10-14",
+      "appointmentTime": "11:00 AM",
+      "hospitalOrClinic": "Max Care Superspeciality Clinic",
+      "reason": "Thyroid Function Evaluation (TSH, Free T4)",
+      "status": "Completed",
+      "consultationNotes": "TSH stable at 2.45 uIU/mL. Weight steady. Continue Levothyroxine 50 mcg once daily before breakfast. Repeat panel in 6 months.",
+      "attachedRecordIds": [
+        "rec_thyroid_sunita"
+      ],
+      "notes": "Patient feels energetic with no palpitation or cold sensitivity.",
+      "createdAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "apt_06",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_savitri",
+      "doctorId": "doc_vikram",
+      "appointmentDate": "2026-09-12",
+      "appointmentTime": "04:00 PM",
+      "hospitalOrClinic": "City Bone & Joint Speciality Hospital",
+      "reason": "Knee Synovial Fluid Evaluation & Pain Management",
+      "status": "Completed",
+      "consultationNotes": "Mild effusion in right knee subsided. Recommended low-impact stationary cycling and knee flexion/extension exercises.",
+      "notes": "Prescribed hot fomentation and physiotherapy.",
+      "createdAt": "2026-09-01T10:00:00Z"
+    }
+  ],
+  "medicalRecords": [
+    {
+      "id": "rec_hba1c_rajesh",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_rajesh",
+      "doctorId": "doc_arvind",
+      "appointmentId": "apt_01",
+      "documentName": "Comprehensive Metabolic Panel & HbA1c Report",
+      "category": "Blood Test",
+      "uploadDate": "2026-11-15",
+      "fileUrl": "/uploads/sample_hba1c_rajesh.pdf",
+      "fileName": "HbA1c_Metabolic_Rajesh_Nov2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 245000,
+      "notes": "Fasting blood glucose 118 mg/dL, HbA1c 6.9% (improved from 7.2%). Lipid profile within acceptable parameters.",
+      "createdAt": "2026-11-15T08:30:00Z"
+    },
+    {
+      "id": "rec_ecg_rajesh",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_rajesh",
+      "doctorId": "doc_priya",
+      "appointmentId": "apt_04",
+      "documentName": "12-Lead Resting Electrocardiogram (ECG)",
+      "category": "Other",
+      "uploadDate": "2026-10-28",
+      "fileUrl": "/uploads/sample_ecg_rajesh.pdf",
+      "fileName": "ECG_Tracing_Rajesh_Oct2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 180000,
+      "notes": "Normal sinus rhythm, heart rate 68 bpm. No ST-T segment elevation or ischemic changes observed.",
+      "createdAt": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "rec_rx_priya",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_rajesh",
+      "doctorId": "doc_priya",
+      "appointmentId": "apt_04",
+      "documentName": "Cardiology Consultation Prescription",
+      "category": "Prescription",
+      "uploadDate": "2026-10-28",
+      "fileUrl": "/uploads/sample_rx_cardio_rajesh.pdf",
+      "fileName": "Prescription_DrPriya_Oct2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 125000,
+      "notes": "Tab. Telmisartan 40mg OD morning. Tab. Rosuvastatin 10mg OD bedtime.",
+      "createdAt": "2026-10-28T18:15:00Z"
+    },
+    {
+      "id": "rec_thyroid_sunita",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_sunita",
+      "doctorId": "doc_arvind",
+      "appointmentId": "apt_05",
+      "documentName": "Serum TSH & Free Thyroid Profile Report",
+      "category": "Blood Test",
+      "uploadDate": "2026-10-12",
+      "fileUrl": "/uploads/sample_tsh_sunita.pdf",
+      "fileName": "Thyroid_Panel_Sunita_Oct2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 198000,
+      "notes": "TSH: 2.45 uIU/mL (Normal 0.4 - 4.2). Free T4: 1.2 ng/dL. Normal euthyroid range.",
+      "createdAt": "2026-10-12T15:20:00Z"
+    },
+    {
+      "id": "rec_xray_savitri",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_savitri",
+      "doctorId": "doc_vikram",
+      "documentName": "Weight-Bearing Bilateral Knee X-Ray & Radiology Report",
+      "category": "X-Ray",
+      "uploadDate": "2026-11-14",
+      "fileUrl": "/uploads/sample_knee_xray_savitri.pdf",
+      "fileName": "Bilateral_Knee_AP_Lat_XRay_Nov2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 420000,
+      "notes": "Medial joint space narrowing, subchondral sclerosis, and marginal osteophytes bilaterally. Stable compared to prior films.",
+      "createdAt": "2026-11-14T11:40:00Z"
+    },
+    {
+      "id": "rec_spirometry_aarav",
+      "familyId": "user_sharma_01",
+      "familyMemberId": "member_aarav",
+      "doctorId": "doc_ananya",
+      "documentName": "Pediatric Spirometry & Peak Flow Analysis",
+      "category": "Other",
+      "uploadDate": "2026-08-20",
+      "fileUrl": "/uploads/sample_spirometry_aarav.pdf",
+      "fileName": "Spirometry_Report_Aarav_Aug2026.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 310000,
+      "notes": "FEV1 / FVC ratio 86%. Good bronchodilator reversibility response. Lung capacity within healthy developmental tier.",
+      "createdAt": "2026-08-20T16:10:00Z"
+    },
+    {
+      "id": "rec_1794834542707_9tyf",
+      "familyId": "user_1794834485100_ufgp",
+      "familyMemberId": "member_1794834485100_self",
+      "documentName": "experiment4",
+      "category": "Blood Test",
+      "uploadDate": "2026-11-16",
+      "fileUrl": "/uploads/experiment4_1794834542678_4126.pdf",
+      "fileName": "experiment4.pdf",
+      "fileType": "application/pdf",
+      "fileSize": 309548,
+      "notes": "",
+      "createdAt": "2026-11-16T13:09:02.707Z"
+    }
+  ],
+  "medicalTasks": [
+    {
+      "id": "task_01",
+      "familyId": "user_sharma_01",
+      "title": "Collect Knee Joint X-Ray Films from Diagnostic Lab",
+      "familyMemberId": "member_savitri",
+      "dueDate": "2026-11-17",
+      "priority": "Urgent",
+      "isCompleted": false,
+      "createdAt": "2026-11-14T12:00:00Z"
+    },
+    {
+      "id": "task_02",
+      "familyId": "user_sharma_01",
+      "title": "Get Fasting Blood Sugar & HbA1c Lab Test",
+      "familyMemberId": "member_rajesh",
+      "dueDate": "2026-11-17",
+      "priority": "High",
+      "isCompleted": true,
+      "completedAt": "2026-11-15T09:30:00Z",
+      "createdAt": "2026-11-10T08:00:00Z"
+    },
+    {
+      "id": "task_03",
+      "familyId": "user_sharma_01",
+      "title": "Pick up inhaler refill and spacer cleaning kit",
+      "familyMemberId": "member_aarav",
+      "dueDate": "2026-11-20",
+      "priority": "Medium",
+      "isCompleted": false,
+      "createdAt": "2026-11-12T10:00:00Z"
+    },
+    {
+      "id": "task_04",
+      "familyId": "user_sharma_01",
+      "title": "Schedule annual ophthalmology review for right eye cataract",
+      "familyMemberId": "member_savitri",
+      "dueDate": "2026-11-25",
+      "priority": "Low",
+      "isCompleted": false,
+      "createdAt": "2026-11-13T14:00:00Z"
+    },
+    {
+      "id": "task_05",
+      "familyId": "user_sharma_01",
+      "title": "Schedule 6-month thyroid profile blood test",
+      "familyMemberId": "member_sunita",
+      "dueDate": "2026-12-05",
+      "priority": "Medium",
+      "isCompleted": false,
+      "createdAt": "2026-11-10T11:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1794835410664",
+      "familyId": "user_1794835410664_l2uq",
+      "title": "Welcome, Gupta Family!",
+      "description": "Your family healthcare vault \"Gupta Family\" is ready. Start by adding your family members and doctors.",
+      "type": "system",
+      "date": "2026-11-16T13:23:30.664Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_1794835345296",
+      "familyId": "user_1794835345296_ct9s",
+      "title": "Welcome, Gupta Family!",
+      "description": "Your family healthcare vault \"Gupta Family\" is ready. Start by adding your family members and doctors.",
+      "type": "system",
+      "date": "2026-11-16T13:22:25.296Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_1794835326490",
+      "familyId": "user_1794835326490_ehws",
+      "title": "Welcome, Gupta Family!",
+      "description": "Your family healthcare vault \"Gupta Family\" is ready. Start by adding your family members and doctors.",
+      "type": "system",
+      "date": "2026-11-16T13:22:06.490Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_1794835305628",
+      "familyId": "user_1794835305628_2llo",
+      "title": "Welcome, Gupta Family!",
+      "description": "Your family healthcare vault \"Gupta Family\" is ready. Start by adding your family members and doctors.",
+      "type": "system",
+      "date": "2026-11-16T13:21:45.628Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_1794835289442",
+      "familyId": "user_1794835289442_70cp",
+      "title": "Welcome, Gupta Family!",
+      "description": "Your family healthcare vault \"Gupta Family\" is ready. Start by adding your family members and doctors.",
+      "type": "system",
+      "date": "2026-11-16T13:21:29.442Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_1794834485100",
+      "familyId": "user_1794834485100_ufgp",
+      "title": "Welcome to CareCircle!",
+      "description": "Your family healthcare vault \"The Sharma Family\" is ready. You can now add family members, record doctors, schedule appointments, and upload medical reports.",
+      "familyMemberId": "member_1794834485100_self",
+      "type": "system",
+      "date": "2026-11-16T13:08:05.100Z",
+      "isRead": false,
+      "isDismissed": false
+    },
+    {
+      "id": "notif_01",
+      "familyId": "user_sharma_01",
+      "title": "Tomorrow's Appointment: Rajesh Sharma",
+      "description": "Scheduled with Dr. Arvind Raman (Endocrinologist) at Max Care Clinic at 10:30 AM.",
+      "familyMemberId": "member_rajesh",
+      "type": "appointment_tomorrow",
+      "date": "2026-11-16T08:00:00Z",
+      "isRead": false,
+      "isDismissed": false,
+      "relatedEntityId": "apt_01"
+    },
+    {
+      "id": "notif_02",
+      "familyId": "user_sharma_01",
+      "title": "Urgent Task: Collect Knee X-Ray Films",
+      "description": "Savitri Sharma’s knee X-ray films are ready for pickup before her orthopedic visit on Nov 19.",
+      "familyMemberId": "member_savitri",
+      "type": "report_ready",
+      "date": "2026-11-15T14:00:00Z",
+      "isRead": false,
+      "isDismissed": false,
+      "relatedEntityId": "task_01"
+    },
+    {
+      "id": "notif_03",
+      "familyId": "user_sharma_01",
+      "title": "Upcoming Consultation in 3 Days",
+      "description": "Savitri Sharma has an appointment with Dr. Vikramaditya Joshi (Orthopedic) on Nov 19 at 03:15 PM.",
+      "familyMemberId": "member_savitri",
+      "type": "follow_up_due",
+      "date": "2026-11-15T09:00:00Z",
+      "isRead": true,
+      "isDismissed": false,
+      "relatedEntityId": "apt_02"
+    },
+    {
+      "id": "notif_04",
+      "familyId": "user_sharma_01",
+      "title": "Appointment Completed & Notes Saved",
+      "description": "Rajesh Sharma’s consultation with Dr. Priya Mehta (Cardiology) was successfully completed and recorded.",
+      "familyMemberId": "member_rajesh",
+      "type": "appointment_completed",
+      "date": "2026-10-28T19:00:00Z",
+      "isRead": true,
+      "isDismissed": false,
+      "relatedEntityId": "apt_04"
+    }
+  ],
+  "activityFeed": [
+    {
+      "familyId": "user_1794835410664_l2uq",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Gupta Family! Your family vault is ready.",
+      "id": "act_1794835410664_cm8s",
+      "timestamp": "2026-11-16T13:23:30.664Z"
+    },
+    {
+      "familyId": "user_1794835345296_ct9s",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Gupta Family! Your family vault is ready.",
+      "id": "act_1794835345296_46kx",
+      "timestamp": "2026-11-16T13:22:25.296Z"
+    },
+    {
+      "familyId": "user_1794835326490_ehws",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Gupta Family! Your family vault is ready.",
+      "id": "act_1794835326490_f8ge",
+      "timestamp": "2026-11-16T13:22:06.490Z"
+    },
+    {
+      "familyId": "user_1794835305628_2llo",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Gupta Family! Your family vault is ready.",
+      "id": "act_1794835305628_j9db",
+      "timestamp": "2026-11-16T13:21:45.628Z"
+    },
+    {
+      "familyId": "user_1794835289442_70cp",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Gupta Family! Your family vault is ready.",
+      "id": "act_1794835289442_pm1v",
+      "timestamp": "2026-11-16T13:21:29.442Z"
+    },
+    {
+      "familyId": "user_1794834485100_ufgp",
+      "type": "record_uploaded",
+      "title": "Medical Document Uploaded",
+      "description": "Uploaded Blood Test \"experiment4\" for Arnav Sharma",
+      "familyMemberId": "member_1794834485100_self",
+      "familyMemberName": "Arnav Sharma",
+      "id": "act_1794834542707_pzw3",
+      "timestamp": "2026-11-16T13:09:02.707Z"
+    },
+    {
+      "familyId": "user_1794834485100_ufgp",
+      "type": "member_added",
+      "title": "Family Vault Created",
+      "description": "Welcome to CareCircle, Arnav Sharma! Your family vault is ready.",
+      "familyMemberId": "member_1794834485100_self",
+      "familyMemberName": "Arnav Sharma",
+      "id": "act_1794834485100_a2sg",
+      "timestamp": "2026-11-16T13:08:05.100Z"
+    },
+    {
+      "id": "act_01",
+      "familyId": "user_sharma_01",
+      "type": "record_uploaded",
+      "title": "Medical Report Uploaded",
+      "description": "Comprehensive Metabolic Panel & HbA1c Report uploaded for Rajesh Sharma",
+      "familyMemberId": "member_rajesh",
+      "timestamp": "2026-11-15T08:30:00Z",
+      "familyMemberName": "Rajesh Sharma"
+    },
+    {
+      "id": "act_02",
+      "familyId": "user_sharma_01",
+      "type": "task_completed",
+      "title": "Medical Task Completed",
+      "description": "Marked completed: Fasting Blood Sugar & HbA1c Lab Test for Rajesh Sharma",
+      "familyMemberId": "member_rajesh",
+      "timestamp": "2026-11-15T09:30:00Z",
+      "familyMemberName": "Rajesh Sharma"
+    },
+    {
+      "id": "act_03",
+      "familyId": "user_sharma_01",
+      "type": "record_uploaded",
+      "title": "X-Ray Report Added",
+      "description": "Weight-Bearing Bilateral Knee X-Ray added for Savitri Sharma",
+      "familyMemberId": "member_savitri",
+      "timestamp": "2026-11-14T11:40:00Z",
+      "familyMemberName": "Savitri Sharma"
+    },
+    {
+      "id": "act_04",
+      "familyId": "user_sharma_01",
+      "type": "appointment_scheduled",
+      "title": "Doctor Appointment Scheduled",
+      "description": "Scheduled with Dr. Ananya Sen for Aarav Sharma on Nov 23 at 11:45 AM",
+      "familyMemberId": "member_aarav",
+      "timestamp": "2026-11-05T14:30:00Z",
+      "familyMemberName": "Aarav Sharma"
+    },
+    {
+      "id": "act_05",
+      "familyId": "user_sharma_01",
+      "type": "appointment_scheduled",
+      "title": "Doctor Appointment Scheduled",
+      "description": "Scheduled with Dr. Vikramaditya Joshi for Savitri Sharma on Nov 19 at 03:15 PM",
+      "familyMemberId": "member_savitri",
+      "timestamp": "2026-11-03T11:00:00Z",
+      "familyMemberName": "Savitri Sharma"
+    },
+    {
+      "id": "act_06",
+      "familyId": "user_sharma_01",
+      "type": "appointment_completed",
+      "title": "Consultation Completed",
+      "description": "Completed appointment with Dr. Priya Mehta (Cardiology) for Rajesh Sharma",
+      "familyMemberId": "member_rajesh",
+      "timestamp": "2026-10-28T18:00:00Z",
+      "familyMemberName": "Rajesh Sharma"
+    },
+    {
+      "id": "act_07",
+      "familyId": "user_sharma_01",
+      "type": "member_added",
+      "title": "Family Member Enrolled",
+      "description": "Savitri Sharma added to CareCircle family health records",
+      "familyMemberId": "member_savitri",
+      "timestamp": "2026-01-05T10:15:00Z",
+      "familyMemberName": "Savitri Sharma"
+    }
+  ]
+}
